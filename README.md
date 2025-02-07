@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate Flutter developer who loves build
 - 📱 **Frameworks**: Flutter, Firebase, Riverpod, Provider, GetX, Bloc  
 - 🛠 **Tools**: Android Studio, Xcode, VS Code, Git, CI/CD  
 - 🔗 **Backend**: Firebase, Node.js, Supabase
-- 
+  
 - 🚀 WordPress Developer | Web Designer | SEO Enthusiast
 
 I’m a passionate WordPress developer with expertise in building custom themes, plugins, and responsive websites. With a keen eye for design and functionality, I create fast, SEO-optimized, and user-friendly websites for businesses, bloggers, and entrepreneurs.
