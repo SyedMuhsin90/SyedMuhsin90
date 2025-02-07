@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Muhsin Ali Shah 
 
 ## 🚀 Flutter Developer | Mobile App Enthusiast  
+## 🚀 WordPress Developer | Web Designer | SEO Enthusiast
 
 Welcome to my GitHub profile! I'm a passionate Flutter developer who loves building beautiful, fast, and responsive mobile applications. I specialize in Dart and Flutter, creating cross-platform apps with elegant UI/UX.  
 
