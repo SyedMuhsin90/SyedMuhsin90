@@ -38,7 +38,7 @@ I’m a passionate WordPress developer with expertise in building custom themes,
 
 ### 🌍 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhsin-ali-shah-93a75a130?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📧 [Email](mailto:your-email@example.com)  
+- 📧 [Email](shahb7@hotmail.com)  
 - 🐦 [Twitter](Your Twitter URL)  
 
 ---
