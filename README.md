@@ -31,7 +31,7 @@ I’m a passionate WordPress developer with expertise in building custom themes,
 
 ### 📌 Featured Projects  
 🔹 **[custom_website_design_flutter](https://github.com/SyedMuhsin90/custom_website_design_flutter)** – A brief description of what the project does.  
-🔹 **[Project Name](GitHub Repo Link)** – Another featured project with a short summary.  
+🔹 **[side menu bar design ](https://github.com/SyedMuhsin90/bottom_nav_bar_ui_design)** – Another featured project with a short summary.  
 
 ### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
