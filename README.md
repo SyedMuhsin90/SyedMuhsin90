@@ -36,8 +36,8 @@ I’m a passionate WordPress developer with expertise in building custom themes,
 
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedMuhsin90&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedMuhsin90&layout=compact&theme=radical)  
 
 ### 🌍 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhsin-ali-shah-93a75a130?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
