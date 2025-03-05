@@ -30,7 +30,7 @@ I’m a passionate WordPress developer with expertise in building custom themes,
 🚀 Need a WordPress website that stands out? Let's build something amazing together!
 
 ### 📌 Featured Projects  
-🔹 **[Project Name](GitHub Repo Link)** – A brief description of what the project does.  
+🔹 **[Project Name](https://github.com/SyedMuhsin90/custom_website_design_flutter)** – A brief description of what the project does.  
 🔹 **[Project Name](GitHub Repo Link)** – Another featured project with a short summary.  
 
 ### 📈 GitHub Stats  
