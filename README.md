@@ -6,7 +6,7 @@
 Welcome to my GitHub profile! I'm a passionate Flutter developer who loves building beautiful, fast, and responsive mobile applications. I specialize in Dart and Flutter, creating cross-platform apps with elegant UI/UX.  
 
 ### 🛠 Tech Stack  
-- 🌐 **Languages**: Dart, Java, Kotlin, Swift  
+- 🌐 **Languages**: Dart, Java, Kotlin, Swift,Html,Css 
 - 📱 **Frameworks**: Flutter, Firebase, Riverpod, Provider, GetX, Bloc  
 - 🛠 **Tools**: Android Studio, Xcode, VS Code, Git, CI/CD  
 - 🔗 **Backend**: Firebase, Node.js, Supabase
